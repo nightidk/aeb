@@ -1,3 +1,2 @@
 version: 1.1.1
 mainFile: aniliberty-episode-builder.py
-zipId: 1JHrBLvOZfSjfmKz7Fzs5JEiDb6ulFYqy
